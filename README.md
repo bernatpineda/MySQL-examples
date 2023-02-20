@@ -1,1 +1,1 @@
-# ruby-examples
+# MySQL-examples
